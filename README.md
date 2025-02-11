@@ -1,0 +1,2 @@
+# DemoJpa
+Ejemplo JPQL
